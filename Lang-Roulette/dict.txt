@@ -23,6 +23,7 @@
 23 Web Development,Ruby (via Ruby on Rails),"Strong choice for rapid web application development."
 24 Web Development,Elixir,"Functional, concurrent language built on Erlang VM; popular for scalable, fault-tolerant web apps with Phoenix."
 25 Web Development,Dart (with Flutter),"Excellent for cross-platform web applications (and mobile) from a single codebase."
+26 Functional & Academic,Haskell,"Purely functional, influential in research and for building robust, high-assurance systems."
 27 Functional & Academic,OCaml,"Functional, object-oriented language used in academia and industry (compilers, formal verification)."
 28 Functional & Academic,F#,"Functional-first language on .NET, used for data science, web development, financial modeling."
 29 Functional & Academic,Erlang,"Known for robust concurrency and fault tolerance, used in highly distributed systems."
